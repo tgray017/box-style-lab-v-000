@@ -42,7 +42,6 @@ h4.amiable {
   border: 1px solid #bbbb00;
   box-shadow:  -1px 1px #bbbb00, -2px 2px #bbbb00, -3px 3px #bbbb00, -4px 4px #bbbb00, -5px 5px #bbbb00;
   background-color: #dddd22;
-  
 }
 
 h4.indifferent {
@@ -53,7 +52,10 @@ h4.indifferent {
   border: 1px solid #bb2222;
   box-shadow:  -1px 1px #bb2222, -2px 2px #bb2222, -3px 3px #bb2222, -4px 4px #bb2222, -5px 5px #bb2222;
   background-color: #dd4444;
-  
+}
+
+h4.indifferent {
+  background: linear-gradient(90deg, #dddd22, #999900)
 }
 
 .column {
