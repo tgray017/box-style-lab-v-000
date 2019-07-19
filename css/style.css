@@ -36,9 +36,9 @@ img {
 }
 
 .indifferent {
-  background-color: #dddd22;
-  box-shadow:  -1px 1px #dddd22, -2px 2px #dddd22, -3px 3px #dddd22, -4px 4px #dddd22, -5px 5px #dddd22;
   border: 1px solid #ffff44;
+  box-shadow:  -1px 1px #dddd22, -2px 2px #dddd22, -3px 3px #dddd22, -4px 4px #dddd22, -5px 5px #dddd22;
+  background-color: #dddd22;
 
   
 }
