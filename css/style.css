@@ -35,16 +35,18 @@ img {
 }
 
 h4.amiable {
-    background: linear-gradient(90deg, #44cc66, #444444)
-
+  background: linear-gradient(90deg, #44cc66, #444444)
 }
 
 .indifferent {
   border: 1px solid #bbbb00;
   box-shadow:  -1px 1px #bbbb00, -2px 2px #bbbb00, -3px 3px #bbbb00, -4px 4px #bbbb00, -5px 5px #bbbb00;
   background-color: #dddd22;
-  background: linear-gradient(90deg, #dddd22, #999900)
   
+}
+
+h4.indifferent {
+  background: linear-gradient(90deg, #dddd22, #999900)
 }
 
 .dubious {
